@@ -168,7 +168,7 @@ function pluck (array,property) {
 
 var products = [
   { nme: 'cucumber', type: 'vegetable'},
-  { name: 'banana', type: 'fuit' },
+  { name: 'banana', type: 'fruit' },
   { name: 'celery', type: 'vegetable'},
   { name: 'orange', type: 'fruit'}
 ];
@@ -195,7 +195,7 @@ filteredProducts;
 
 var products = [
     {name: 'cucumber', type: 'vegetable', quanityt: 0, price: 1},
-    {name: 'banana', type: 'fruit', quantity: 10 price: 15},
+    {name: 'banana', type: 'fruit', quantity: 10, price: 15},
     {name: 'celery', type: 'vegetable', quantity: 30, price: 9},
     {name: 'orange', type: 'fruit', quantity: 3, price:5}
     ];
